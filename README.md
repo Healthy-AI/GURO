@@ -22,3 +22,16 @@ The data used in our experiments can be found below:
 
 ## Citation
 
+```
+@inproceedings{bergstrom_2024_active,
+ author = {Bergstr\"{o}m, Herman and Carlsson, Emil and Dubhashi, Devdatt and Johansson, Fredrik D.},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+ pages = {71962--71997},
+ publisher = {Curran Associates, Inc.},
+ title = {Active preference learning for ordering items in- and out-of-sample},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/8443219a991f068c34d9491ad68ffa94-Paper-Conference.pdf},
+ volume = {37},
+ year = {2024}
+}
+```
